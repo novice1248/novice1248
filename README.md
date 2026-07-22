@@ -1,13 +1,13 @@
 # novice1248
 
-会津大学 コンピュータ理工学部 4年。セキュリティと LLM エージェント設計に興味があります。
+セキュリティと LLM エージェント設計に興味があります。
 
-Security-minded CS undergrad at the University of Aizu, building LLM agents with guardrails.
+Interested in security and building LLM agents with guardrails.
 
 ## 関心領域
 
-- **セキュリティ / CTF** — 大会に継続参加（SECCON Beginners、picoCTF、TJCTF、AlpacaHack など）
-- **暗号** — 卒業研究では暗号プロトコルの設計・安全性定義を扱っています
+- **セキュリティ / CTF** — 大会に継続参加
+- **暗号** — プロトコル設計・安全性定義まわり
 - **LLM エージェント設計** — 「モデルの過信をハーネス側で塞ぐ」設計が最近の主題です
 
 ## 公開しているもの
